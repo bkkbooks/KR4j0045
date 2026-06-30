@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0045/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蒲江詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:48:24.466696'
+  source:
+    repository: kanripo
+    path: KR4j0045/KR4j0045_000.txt
+hash: sha256:89b8fb503db22e9de4af4dda958f9560b783420d300ab15a72d03c6e564001cf

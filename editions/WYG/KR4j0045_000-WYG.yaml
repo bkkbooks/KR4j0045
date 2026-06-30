@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4j0045/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蒲江詞
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-25 00:48:24.466696'
+  source:
+    repository: kanripo
+    path: KR4j0045/KR4j0045_000.txt
+hash: sha256:60438f653ab25d6675a7bec353a86c4210c60f9960696d0c05b91e2002d517e1

@@ -1,0 +1,35 @@
+canonical_identifier: bkk:krp/KR4j0045/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4j0045/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 蒲江詞
+  date: '2015-08-25 00:48:24.466696'
+  source:
+    repository: kanripo
+    path: KR4j0045
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4j0045_000-WYG.yaml, hash: 'sha256:60438f653ab25d6675a7bec353a86c4210c60f9960696d0c05b91e2002d517e1'}
+  - {seq: 1, filename: KR4j0045_001-WYG.yaml, hash: 'sha256:cef937a20886ed208391af7bec85e67b40b70d1ec637caf389eb24ace89c0672'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR4j0045_001-WYG.markers.yaml, hash: 'sha256:48a9c1934d86ebd84678d2fd791b9becfe8df8b4ecf332fcfccc7f133b2f6ef7'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR4j0045_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 2162
+  label: 蒲江詞
+  type: section
+  level: 1
+hash: sha256:a2563fb73941fe2d2d30967749a0966aa20f58f30b1643ecd8943f5f822a2d15
