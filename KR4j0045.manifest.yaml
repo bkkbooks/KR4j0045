@@ -21,9 +21,9 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR4j0045_000.yaml, hash: 'sha256:89b8fb503db22e9de4af4dda958f9560b783420d300ab15a72d03c6e564001cf'}
-  - {seq: 1, filename: KR4j0045_001.yaml, hash: 'sha256:601c6d1cfd720f469bbf0d3a096189c6d4dfaeb59d5f18b55738b2c6ae61c4c0'}
+  - {seq: 1, filename: KR4j0045_001.yaml, hash: 'sha256:7a90629c36c922b4c8965548026949164865ed99c142ff5f788ab1d65294becb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4j0045_001.markers.yaml, hash: 'sha256:97ed2a830bc111f9f31c38514b790af0516e3d3cbe1345d3429206f7be0d671d'}
+  - {seq: 1, role: markers, filename: assets/KR4j0045_001.markers.yaml, hash: 'sha256:849268069d0c01eef3360d5dfad42596322f2944f400af26eb303d986698479e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,7 +35,4 @@ table_of_contents:
   label: 蒲江詞
   type: section
   level: 1
-hash: sha256:707d8aac9d766c714056962b6e0e7e4b432e61e12fa69d4b6a00a8a40529410b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9b02dd4a5da597713ae02747bd6a28ec6b99060ba85dade44a7b5fef2e3d043c
