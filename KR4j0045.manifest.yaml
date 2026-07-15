@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4j0045/v1
 canonical_location: https://kanripo.org/bkk/KR4j0045/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 蒲江詞
   date: '2015-08-25 00:48:24.466696'
@@ -21,9 +21,9 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR4j0045_000.yaml, hash: 'sha256:89b8fb503db22e9de4af4dda958f9560b783420d300ab15a72d03c6e564001cf'}
-  - {seq: 1, filename: KR4j0045_001.yaml, hash: 'sha256:7a90629c36c922b4c8965548026949164865ed99c142ff5f788ab1d65294becb'}
+  - {seq: 1, filename: KR4j0045_001.yaml, hash: 'sha256:a67972eeca457d6db9784c039690d8030d1a5bcd04f50261d8571903710e714e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4j0045_001.markers.yaml, hash: 'sha256:849268069d0c01eef3360d5dfad42596322f2944f400af26eb303d986698479e'}
+  - {seq: 1, role: markers, filename: assets/KR4j0045_001.markers.yaml, hash: 'sha256:eddc20ec82b21f21db56de9bdb2e27643f6a006a610e84f8dc43c9811662330d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -35,4 +35,7 @@ table_of_contents:
   label: 蒲江詞
   type: section
   level: 1
-hash: sha256:9b02dd4a5da597713ae02747bd6a28ec6b99060ba85dade44a7b5fef2e3d043c
+hash: sha256:3aeae2c180c90608171681d515a73a1f6f1e4625a2df6d7c58d75d8d96edf69e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
