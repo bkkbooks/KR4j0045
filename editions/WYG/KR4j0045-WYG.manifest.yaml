@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4j0045_000-WYG.yaml, hash: 'sha256:60438f653ab25d6675a7bec353a86c4210c60f9960696d0c05b91e2002d517e1'}
   - {seq: 1, filename: KR4j0045_001-WYG.yaml, hash: 'sha256:cef937a20886ed208391af7bec85e67b40b70d1ec637caf389eb24ace89c0672'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4j0045_001-WYG.markers.yaml, hash: 'sha256:48a9c1934d86ebd84678d2fd791b9becfe8df8b4ecf332fcfccc7f133b2f6ef7'}
+  - {seq: 1, role: markers, filename: assets/KR4j0045_001-WYG.markers.yaml, hash: 'sha256:fa96b3cec09f9c5e7d330d7cdef08185434291ed7a959c2743f8f05b15fa9c7c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,4 +32,4 @@ table_of_contents:
   label: 蒲江詞
   type: section
   level: 1
-hash: sha256:a2563fb73941fe2d2d30967749a0966aa20f58f30b1643ecd8943f5f822a2d15
+hash: sha256:9e9fda9ad97278bc5d4285c8716b5089447f0fbd4aee937f43d5b11b81aa870a
